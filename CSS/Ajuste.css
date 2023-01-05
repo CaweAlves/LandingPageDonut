@@ -1,0 +1,14 @@
+            .bg-pink {
+                --bs-bg-opacity: 1;
+                background-color: #EB85CF !important;
+            }
+            
+            .text-pink {
+                color: #EB85CF !important;
+            }
+            
+            .nav-donut .nav-link {
+                background: 2px solid pink;
+                border: 0;
+                border-radius: 25rem;
+            }
